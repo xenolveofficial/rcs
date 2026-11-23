@@ -132,6 +132,7 @@ export default async function LocaleLayout({
             __html: `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());`,
           }}
         />
+        <meta name="google-site-verification" content="LgBsq-zLZKlWnU_NoeunP08gf2lzTeMtZzgBN6O015E" />
       </head>
       <body suppressHydrationWarning
         className={`antialiased bg-background text-foreground ${
